@@ -1,4 +1,5 @@
 def hello_t(array)
+<<<<<<< HEAD
   i = 0
 
   unless block_given?
@@ -11,6 +12,8 @@ def hello_t(array)
     i = i + 1
   end
   array
+=======
+>>>>>>> da9f5299abbd44249df4bc82ffca765b2b785a82
 
 end
 
